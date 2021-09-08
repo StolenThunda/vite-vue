@@ -7,9 +7,9 @@ const dataState = createPersistedState({
   key: 'viteq',
   paths: [
     'layout.dark',
-     'layout.leftDrawer',
-     'layout.miniDrawer',
-     'layout.rightDrawer'
+    'layout.leftDrawer',
+    'layout.miniDrawer',
+    'layout.rightDrawer'
     ],
 });
 
