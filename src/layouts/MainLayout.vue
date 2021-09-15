@@ -134,6 +134,7 @@ import {
 
 const navs = [
   { label: 'Dashboard', icon: outlinedDashboard, to: '/', exact: true },
+  { label: 'Bored', icon: outlinedInfo, to: '/bored' },
   { label: 'About', icon: outlinedInfo, to: '/about' },
 ];
 
